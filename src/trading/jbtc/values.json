@@ -1,0 +1,1892 @@
+[
+  {
+    "name": "Volt Bike",
+    "value": 1000000,
+    "demand": 3
+  },
+  {
+    "name": "Blackhawk",
+    "value": 1000000,
+    "demand": 3
+  },
+  {
+    "name": "Trailblazer",
+    "value": 1000000,
+    "demand": 3
+  },
+  {
+    "name": "Monster",
+    "value": 1000000,
+    "demand": 2
+  },
+  {
+    "name": "Jet",
+    "value": 1000000,
+    "demand": 3
+  },
+  {
+    "name": "Drone",
+    "value": 1000000,
+    "demand": 3
+  },
+  {
+    "name": "Torpedo",
+    "value": 27500000,
+    "duped_value": 25000000,
+    "demand": 2,
+    "notes": "Dropping"
+  },
+  {
+    "name": "Icebreaker",
+    "value": 25000000,
+    "duped_value": null,
+    "demand": 5,
+    "notes": "Demand rising"
+  },
+  {
+    "name": "Arachnid",
+    "value": 25000000,
+    "duped_value": 22500000,
+    "demand": 3
+  },
+  {
+    "name": "Beignet",
+    "value": 21500000,
+    "duped_value": null,
+    "demand": 3,
+    "notes": "Hype dying"
+  },
+  {
+    "name": "Celsior",
+    "value": 20000000,
+    "duped_value": null,
+    "demand": 5
+  },
+  {
+    "name": "Javelin",
+    "value": 18500000,
+    "duped_value": null,
+    "demand": 3,
+    "notes": "Hype dying"
+  },
+  {
+    "name": "Beam Hybrid",
+    "value": 18500000,
+    "duped_value": 18500000,
+    "demand": 3
+  },
+  {
+    "name": "Banana car",
+    "value": 17500000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Proto-08",
+    "value": 16500000,
+    "duped_value": null,
+    "demand": 5,
+    "notes": "Demand rising"
+  },
+  {
+    "name": "Raptor",
+    "value": 14000000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Gets lowballed due to demand"
+  },
+  {
+    "name": "Power 1",
+    "value": 8500000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Crew Capsule",
+    "value": 8500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "M12",
+    "value": 6500000,
+    "duped_value": null,
+    "demand": 5
+  },
+  {
+    "name": "Jb8",
+    "value": 5500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Goliath",
+    "value": 5000000,
+    "duped_value": null,
+    "demand": 5,
+    "notes": "High demand, gets overpays"
+  },
+  {
+    "name": "Volt 4x4",
+    "value": 4500000,
+    "duped_value": null,
+    "demand": 4
+  },
+  {
+    "name": "Macaron",
+    "value": 4000000,
+    "duped_value": null,
+    "demand": 5
+  },
+  {
+    "name": "Parisian",
+    "value": 3500000,
+    "duped_value": null,
+    "demand": 5
+  },
+  {
+    "name": "Brulee",
+    "value": 3500000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Does not pull full value in good demand, expect underpays."
+  },
+  {
+    "name": "Shogun",
+    "value": 3000000,
+    "duped_value": null,
+    "demand": 5
+  },
+  {
+    "name": "Bandit",
+    "value": 2750000,
+    "duped_value": null,
+    "demand": 4,
+    "notes": "Best 2.5 in game, can get any other 2.5+add - hence the higher value."
+  },
+  {
+    "name": "Aperture",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 4
+  },
+  {
+    "name": "Rattler",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Concept",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Torero",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Carbonara",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Poseidon",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Agent",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Snake",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 4
+  },
+  {
+    "name": "Tiny Toy",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 4
+  },
+  {
+    "name": "Airtail",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 4
+  },
+  {
+    "name": "Bloxy",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Striker",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Frost Crawler",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Longhorn",
+    "value": 1125000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Jackrabbit",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Megalodon",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Shell classic",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Posh",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Hammerhead",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Nascar 75th",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Laviolette",
+    "value": 250000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Steed",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Suv",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Classic",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Mighty",
+    "value": 150000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Escape Bot",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Fiasco",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Checker",
+    "value": 30000000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Vantablack",
+    "value": 17500000,
+    "duped_value": null,
+    "demand": 4,
+    "notes": "Can get OP from collectors"
+  },
+  {
+    "name": "Drip",
+    "value": 9500000,
+    "duped_value": null,
+    "demand": 5,
+    "notes": "Can pull overpays often"
+  },
+  {
+    "name": "Snowstorm",
+    "value": 4500000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Gets lowballed"
+  },
+  {
+    "name": "Galactic carbon",
+    "value": 4000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Fire",
+    "value": 3500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Blue Pixel",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 3,
+    "notes": "can pull gold + small adds"
+  },
+  {
+    "name": "Winter Camo",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Black Ice",
+    "value": 2000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Gold",
+    "value": 2000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Orange pixel",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Armor",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 1,
+    "notes": "Usually recieves underpay"
+  },
+  {
+    "name": "Earthquake",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Very rare, but low demanded "
+  },
+  {
+    "name": "Pixel",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Used for upgrading value"
+  },
+  {
+    "name": "Manga",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Radiant Ice",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Crimson Racer",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Old Town Road",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 1,
+    "notes": "Very rare but very low demand."
+  },
+  {
+    "name": "Tiger",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 1,
+    "notes": "Also known as KreekCraft's texture."
+  },
+  {
+    "name": "Field",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 1,
+    "notes": "Also very rare but very low demand"
+  },
+  {
+    "name": "Earth",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Lightning",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Hotdog",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 1,
+    "notes": "A bit rare but trash demand."
+  },
+  {
+    "name": "Wavy",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 1,
+    "notes": "Usually receives 1M. Sometimes gets Pixel"
+  },
+  {
+    "name": "Digital Confetti",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Berlin Graffiti Skin",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "White marble",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Road Hazard",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Superstar",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Bacon",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Radiant Orange",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Money",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 1,
+    "notes": "Terrible demand.Usually lowballed"
+  },
+  {
+    "name": "Glowing yellow",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 1,
+    "notes": "Also known as NapkinNate's texture."
+  },
+  {
+    "name": "Flaming",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Circuits",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Radiant Yellow",
+    "value": 350000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Radar camo",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Liquid Lava",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Aquatic",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Aurora",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Bandana",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Gulf",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Radiant Purple",
+    "value": 250000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Radiant Green",
+    "value": 250000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Radiant Red",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Radiant Pink",
+    "value": 150000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Touchdown",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Wooden toy",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Fall chrome",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Darkest purple",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Void",
+    "value": 22500000,
+    "duped_value": 20000000,
+    "demand": 2,
+    "notes": "Demand and value dropping"
+  },
+  {
+    "name": "Spinner",
+    "value": 16500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "RTX",
+    "value": 16000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Laser Cannon",
+    "value": 6500000,
+    "duped_value": null,
+    "demand": 5,
+    "notes": "Gets overpays"
+  },
+  {
+    "name": "Icicle",
+    "value": 4500000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Hasn't changed during the winter update."
+  },
+  {
+    "name": "Snowflake",
+    "value": 3500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Hypno",
+    "value": 3500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Snowface",
+    "value": 3500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Brickset",
+    "value": 3500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Planetary",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Ionize",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Usually an unknown value due to its bad demand"
+  },
+  {
+    "name": "Blue Eyes",
+    "value": 2000000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Spider Leg",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Star Badge",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Red Eyes",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Track Toy",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 3
+  },
+  {
+    "name": "Energized",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Diamond Engrave",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Center lock",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Stance",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Bull",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Iron Rock",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Nemesis",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Soccer",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Distorted",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Sakura",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Radar",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Euro Cloverleaf Rims",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Frostburn",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Wagon",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Fore!",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Beadlock",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Ducky Float",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Live2020",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "B-ball",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Compass",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Bonded rim",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Roll-x",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Tesseract",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Sawblade",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Retro racer rims",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Piggy",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Road Warrior",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Trion",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Uk Heritage Rims",
+    "value": 250000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Biohazard",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Scope",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Unknown signal",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Belgian Waffle Rims",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Peppermint",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Spinny Beachball",
+    "value": 150000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Volleyball",
+    "value": 150000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Revolver Rims",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Teddy bear",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Shipwheel",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Marshmallow",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Daytona",
+    "value": 75000,
+    "duped_value": null,
+    "demand": 0,
+    "notes": "Extremely hard to find"
+  },
+  {
+    "name": "Propeller",
+    "value": 75000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Rally",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Electrostatic",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Thrusters",
+    "value": 25000000,
+    "duped_value": 25000000,
+    "demand": 2,
+    "notes": "Losing demand"
+  },
+  {
+    "name": "Brickset",
+    "value": 4000000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Volt Wing",
+    "value": 3750000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "2 Billion/2B",
+    "value": 3500000,
+    "duped_value": null,
+    "demand": 1,
+    "notes": "Expect extreme underpay"
+  },
+  {
+    "name": "Snow Shovel",
+    "value": 3000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Bicycle/Bike Rack",
+    "value": 3000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "5star",
+    "value": 3000000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Eightleg",
+    "value": 2750000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Cash Spitter",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 4
+  },
+  {
+    "name": "Velocity",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Dual Rockets",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Clickbait",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Tiki Torch",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Ufo spoiler",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Glider wing",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Blue chute",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Spare",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Mecha",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Dual Flags",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "Jdm",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Water gun",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Jetpack",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Afterburner",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Triple Fin",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Endurance Wing",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Flamethrower",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Death ray",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Colors Of Italy",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Turning Key",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Shell Speakers",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Overdrive",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Antenna",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Orange chute",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 1
+  },
+  {
+    "name": "3 Billion",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Deathtrap",
+    "value": 600000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Robowing",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Tuner",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Star Wings",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Do you lift?",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Snow log",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Travel Case",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Live Glider",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Surfboard racks",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Lantern wing",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Animated Sawblades",
+    "value": 300000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Snow Cannon",
+    "value": 250000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Sail Wing",
+    "value": 250000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Bull Spoiler",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Trophy wing",
+    "value": 150000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Torii gate",
+    "value": 150000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Wing of Pisa",
+    "value": 150000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Windmill",
+    "value": 150000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Tank wing",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "T-rex Bone",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Ski Wing",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Scythe Wing",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Aerial Wings",
+    "value": 75000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Native ",
+    "value": 75000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Terminator ",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Blue50 Tire",
+    "value": 4000000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Red50 Tire",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Japanese/Reshingu Tire",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Can pull 1ms"
+  },
+  {
+    "name": "Cucaracha Horn",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 0,
+    "notes": "Don't expect anything higher than 1m."
+  },
+  {
+    "name": "Road Spike Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Snowchain Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "BlueS3 Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "RedS3 Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "3 Billion/3B Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Lightning Tire",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Winner Horn",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Army Tire",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Buoy Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Kanagawa Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Tokyo Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Champion Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Champion Horn",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "FlagOfEurope Tire",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Nascar 75th Tire",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Blue50 Tire",
+    "value": 4000000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Red50 Tire",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Japanese/Reshingu Tire",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Can pull 1ms"
+  },
+  {
+    "name": "Cucaracha Horn",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 0,
+    "notes": "Don't expect anything higher than 1m."
+  },
+  {
+    "name": "Road Spike Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Snowchain Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "BlueS3 Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "RedS3 Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "3 Billion/3B Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Lightning Tire",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Winner Horn",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Army Tire",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Buoy Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Kanagawa Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Tokyo Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Champion Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Champion Horn",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "FlagOfEurope Tire",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Nascar 75th Tire",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Blue50 Tire",
+    "value": 4000000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Red50 Tire",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Japanese/Reshingu Tire",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": 2,
+    "notes": "Can pull 1ms"
+  },
+  {
+    "name": "Cucaracha Horn",
+    "value": 800000,
+    "duped_value": null,
+    "demand": 0,
+    "notes": "Don't expect anything higher than 1m."
+  },
+  {
+    "name": "Road Spike Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Snowchain Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "BlueS3 Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "RedS3 Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "3 Billion/3B Tire",
+    "value": 500000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Lightning Tire",
+    "value": 400000,
+    "duped_value": null,
+    "demand": 2
+  },
+  {
+    "name": "Winner Horn",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Army Tire",
+    "value": 200000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Buoy Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Kanagawa Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Tokyo Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Champion Tire",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Champion Horn",
+    "value": 100000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "FlagOfEurope Tire",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Nascar 75th Tire",
+    "value": 50000,
+    "duped_value": null,
+    "demand": 0
+  },
+  {
+    "name": "Hypershift",
+    "value": 190000000,
+    "demand": 2,
+    "notes": "Gets underpays"
+  },
+  {
+    "name": "Hyper Blue L5",
+    "value": 30000000,
+    "demand": 2,
+    "notes": "Gets torp and is usually hard to pull add, it also usually gets underpay as well"
+  },
+  {
+    "name": "Hyper Red L5",
+    "value": 27500000,
+    "demand": 2,
+    "notes": "Gets lowballs"
+  },
+  {
+    "name": "Hyper Pink L5",
+    "value": 25000000,
+    "demand": 2
+  },
+  {
+    "name": "Hyper Diamond L5",
+    "value": 25000000,
+    "demand": 2,
+    "notes": "Gets fair offer sometimes"
+  },
+  {
+    "name": "Hyper Green L5",
+    "value": 25000000,
+    "demand": 2,
+    "notes": "Gets lowballs"
+  },
+  {
+    "name": "Hyper Purple L5",
+    "value": 21500000,
+    "demand": 1,
+    "notes": "Gets lowballs"
+  },
+  {
+    "name": "Hyper Orange L5",
+    "value": 18000000,
+    "demand": 1,
+    "notes": "Lowballed"
+  },
+  {
+    "name": "Hyper Yellow L5",
+    "value": 16000000,
+    "demand": 1,
+    "notes": "Gets lowballed"
+  },
+  {
+    "name": "Hyper Blue L4",
+    "value": 35000000,
+    "demand": 2,
+    "notes": "Gets lowballs"
+  },
+  {
+    "name": "Hyper Red L4",
+    "value": 32500000,
+    "demand": 2,
+    "notes": "Gets lowballs"
+  },
+  {
+    "name": "Hyper Green L4",
+    "value": 28500000,
+    "demand": 2,
+    "notes": "Gets major lowballs"
+  },
+  {
+    "name": "Hyper Pink L4",
+    "value": 25000000,
+    "demand": 2
+  },
+  {
+    "name": "Hyper Diamond L4",
+    "value": 25000000,
+    "demand": 2,
+    "notes": "No OP"
+  },
+  {
+    "name": "Hyper Purple L4",
+    "value": 22500000,
+    "demand": 2,
+    "notes": "Gets lowball/mid demand"
+  },
+  {
+    "name": "Hyper Orange L4",
+    "value": 20000000,
+    "demand": 1,
+    "notes": "Gets lowballs"
+  },
+  {
+    "name": "Hyper Yellow L4",
+    "value": 17500000,
+    "demand": 1,
+    "notes": "Gets lowballs"
+  },
+  {
+    "name": "Hyper Blue L3",
+    "value": 20000000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Red L3",
+    "value": 17500000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Green L3",
+    "value": 15000000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Pink L3",
+    "value": 10000000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Diamond L3",
+    "value": 10000000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Purple L3",
+    "value": 7500000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Orange L3",
+    "value": 5500000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Yellow L3",
+    "value": 4000000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Blue L2",
+    "value": 3000000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Red L2",
+    "value": 2500000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Green L2",
+    "value": 2500000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Pink L2",
+    "value": 1500000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Diamond L2",
+    "value": 1500000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Purple L2",
+    "value": 1500000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Orange L2",
+    "value": 1000000,
+    "demand": 1
+  },
+  {
+    "name": "Hyper Yellow L2",
+    "value": 750000,
+    "demand": 1
+  }
+]

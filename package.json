@@ -1,0 +1,19 @@
+{
+  "name": "jbconsole",
+  "module": "src/index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "googleapis": "^134.0.0",
+    "node-html-parser": "^6.1.13"
+  },
+  "scripts": {
+    "update": "bun src/trading/jbtrading/parser.ts && bun src/trading/jbtc/parser.ts && bun src/trading/dupes/parser.ts",
+    "build": "bun build src/index.ts --minify --outfile=jbconsole.js --target=node"
+  }
+}
