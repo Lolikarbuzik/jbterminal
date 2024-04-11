@@ -9,22 +9,15 @@ A value calculator supporting multiple value lists in a terminal
 
 -   To calculate value just type the items.
 -   If an item has a space use `_` to seperate.
--   If an item is duped in frost put `duped_<item>` it will use the duped_value
+-   If an item is duped in use `duped_<item>` it will use the duped_value
     or value.
 
 ## Values are outdated
 
+### !! Initialize secrets.json for more go to src/trading/jbtc/parser.ts
+
 If values are outdated run `bun run update` it will run all the parser scripts
-in `src/trading`. Or if you are on node use
-
-## Dev related stuff
-
-To Update cache:
-
-```bash
-# Initialize secrets.json for more go to src/trading/jbtc/parser.ts
-bun run update
-```
+in `src/trading`.
 
 To install dependencies:
 
