@@ -40,8 +40,7 @@
     "name": "Icebreaker",
     "value": 25000000,
     "duped_value": null,
-    "demand": 5,
-    "notes": "Demand rising"
+    "demand": 4
   },
   {
     "name": "Arachnid",
@@ -50,43 +49,41 @@
     "demand": 3
   },
   {
+    "name": "Celsior",
+    "value": 22500000,
+    "duped_value": null,
+    "demand": 5
+  },
+  {
     "name": "Beignet",
     "value": 21500000,
     "duped_value": null,
-    "demand": 3,
-    "notes": "Hype dying"
+    "demand": 3
   },
   {
-    "name": "Celsior",
+    "name": "Beam Hybrid",
     "value": 20000000,
-    "duped_value": null,
-    "demand": 5
+    "duped_value": 20000000,
+    "demand": 3
   },
   {
     "name": "Javelin",
     "value": 18500000,
     "duped_value": null,
-    "demand": 3,
-    "notes": "Hype dying"
+    "demand": 3
   },
   {
-    "name": "Beam Hybrid",
-    "value": 18500000,
-    "duped_value": 18500000,
-    "demand": 3
+    "name": "Proto-08",
+    "value": 17500000,
+    "duped_value": null,
+    "demand": 5,
+    "notes": "Demand rising"
   },
   {
     "name": "Banana car",
     "value": 17500000,
     "duped_value": null,
     "demand": 3
-  },
-  {
-    "name": "Proto-08",
-    "value": 16500000,
-    "duped_value": null,
-    "demand": 5,
-    "notes": "Demand rising"
   },
   {
     "name": "Raptor",
@@ -114,17 +111,17 @@
     "demand": 5
   },
   {
-    "name": "Jb8",
-    "value": 5500000,
-    "duped_value": null,
-    "demand": 2
-  },
-  {
     "name": "Goliath",
     "value": 5000000,
     "duped_value": null,
     "demand": 5,
     "notes": "High demand, gets overpays"
+  },
+  {
+    "name": "Jb8",
+    "value": 5000000,
+    "duped_value": null,
+    "demand": 2
   },
   {
     "name": "Volt 4x4",
@@ -136,10 +133,16 @@
     "name": "Macaron",
     "value": 4000000,
     "duped_value": null,
-    "demand": 5
+    "demand": 4
   },
   {
     "name": "Parisian",
+    "value": 3500000,
+    "duped_value": null,
+    "demand": 5
+  },
+  {
+    "name": "Shogun",
     "value": 3500000,
     "duped_value": null,
     "demand": 5
@@ -150,12 +153,6 @@
     "duped_value": null,
     "demand": 2,
     "notes": "Does not pull full value in good demand, expect underpays."
-  },
-  {
-    "name": "Shogun",
-    "value": 3000000,
-    "duped_value": null,
-    "demand": 5
   },
   {
     "name": "Bandit",
@@ -252,7 +249,7 @@
     "name": "Jackrabbit",
     "value": 1000000,
     "duped_value": null,
-    "demand": 1
+    "demand": 2
   },
   {
     "name": "Megalodon",
@@ -334,14 +331,14 @@
   },
   {
     "name": "Vantablack",
-    "value": 17500000,
+    "value": 18500000,
     "duped_value": null,
     "demand": 4,
     "notes": "Can get OP from collectors"
   },
   {
     "name": "Drip",
-    "value": 9500000,
+    "value": 10000000,
     "duped_value": null,
     "demand": 5,
     "notes": "Can pull overpays often"

@@ -10,7 +10,9 @@ A value calculator supporting multiple value lists in a terminal
 -   To calculate value just type the items.
 -   If an item has a space use `_` to seperate.
 -   If an item is duped in frost put `duped_<item>` it will use the duped_value
-    or value.
+    or value. Remember some items dont have duped_value.
+-   If you want to have multiple items use `<count>x_<item>` example:
+    `4x_concept`
 
 ## Values are outdated
 

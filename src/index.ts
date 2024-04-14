@@ -22,14 +22,18 @@ function ask() {
             //     trade2 = [];
             // }
             items.shift();
-            console.log("Set new counter trade ->", items.join(","));
+            if (items.length == 0) {
+                console.log("Cleared counter trade");
+            } else {
+                console.log("Set new counter trade ->", items.join(","));
+            }
             trade2 = items;
             return ask()
         } else if (items[0] == "$") {
             if (tval == jbtr) {
                 tval = jbtc;
             } else tval = jbtr
-            console.log("Now using:", tval.name);
+            console.log("Swapped to:", tval.name);
             items.shift();
             return ask()
         }
@@ -39,7 +43,20 @@ function ask() {
                 console.log(`User "${uid}" is ${jbtc.isDuped(uid) ? "duped" : "clean"}`);
                 return false;
             }
+
             return true;
+        })
+        items.forEach((v, i) => {
+            const start = v.split(" ")[0]
+            if (start.endsWith("x") && Number(start.replace("x", ""))) {
+                const count = Number(start.replace("x", ""));
+                const a = v.split(" ");
+                a.shift()
+                items[i] = a.join(" ");
+                for (let i = 1; i < count; i++) {
+                    items.push(a.join(" "));
+                }
+            }
         })
         console.log("JBTC ->", shortenNumber(jbtc.calcValueFromArr(items)));
         console.log("JBTR ->", shortenNumber(jbtr.calcValueFromArr(items)));
