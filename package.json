@@ -1,6 +1,7 @@
 {
   "name": "jbconsole",
   "module": "src/index.ts",
+  "version": "0.1.0",
   "devDependencies": {
     "@types/bun": "latest"
   },

@@ -7,6 +7,15 @@ export enum JBItemDemand {
     High,
 }
 
+export const DemandTostr = {
+    [JBItemDemand.None]: "Unknown",
+    [JBItemDemand.Very_Low]: "Very low",
+    [JBItemDemand.Low]: "Low",
+    [JBItemDemand.Mid]: "Mid",
+    [JBItemDemand.Decent]: "Decent",
+    [JBItemDemand.High]: "High",
+}
+
 export const DemandToValMul = {
     [JBItemDemand.None]: 1.0,
     [JBItemDemand.Very_Low]: 0.86,

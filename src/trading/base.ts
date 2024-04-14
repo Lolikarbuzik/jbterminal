@@ -58,6 +58,7 @@ export default class JBBaseClass {
     }
 
     itemSearch(search: string): JBItem[] {
+        if (search === "") return [];
         search = search.toLowerCase().replaceAll(" ", "").replace("level", "l").replace("lvl", "l");
         if (!search.includes("radiant")) {
             search = search.replace("rad", "radiant");
@@ -81,6 +82,22 @@ export default class JBBaseClass {
         });
 
         // console.log(items);
+        return items;
+    }
+
+    itemSearchFromArr(searches: string[]): JBItem[] {
+        const items = [];
+        for (const search of searches) {
+            console.log(search.trim().length)
+            if (search.trim().length === 0) continue;
+            const item = this.itemSearch(search)[0];
+            if (!item) {
+                console.log(`Cant find item of '${search}'`);
+                continue;
+            }
+            items.push(item);
+        }
+
         return items;
     }
 }
