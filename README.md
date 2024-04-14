@@ -1,11 +1,31 @@
 # jbtterminal
 
+v0.1.1
+
 A value calculator supporting multiple value lists in a terminal
+
+## How to run it
+
+### From source
+
+-   run `git clone https://github.com/Lolikarbuzik/jbterminal.git`
+-   install bun
+-   run `bun run build`
+-   you will have a `jbconsole.js` file use `bun jbconsole.js`
+
+### Releases
+
+-   Download latest release
+-   Install a javascript runtime (node/bun)
+-   run `node jbconsole.js` or if you are using bun `bun jbconsole.js`
 
 ## How to use
 
--   `$` changes the value list jbtc -> jbtrading etc.
--   `@` sets a new counter trade
+-   `@` changes the value list.
+-   `!` sets a new counter trade
+-   `?` Info about the current trade
+-   `^` Previous trade
+-   `/<user>` to check if user has duped
 
 -   To calculate value just type the items.
 -   If an item has a space use `_` to seperate.
@@ -16,17 +36,10 @@ A value calculator supporting multiple value lists in a terminal
 
 ## Values are outdated
 
+### !! Initialize secrets.json for more go to src/trading/jbtc/parser.ts
+
 If values are outdated run `bun run update` it will run all the parser scripts
-in `src/trading`. Or if you are on node use
-
-## Dev related stuff
-
-To Update cache:
-
-```bash
-# Initialize secrets.json for more go to src/trading/jbtc/parser.ts
-bun run update
-```
+in `src/trading`.
 
 To install dependencies:
 
