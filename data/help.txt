@@ -1,0 +1,49 @@
+Manual page (h)
+
+This is manual page of jbterminal (v0.2.0) by @lolikarbuzik on github & discord
+
+Keystrokes:
+    # Main menu
+    - `H` this page
+    - `L` opens up a search box
+    - `E` edits item og
+    - `Backspace` removes selected item
+    - `WASD` to move in calculator menu (main)
+    - `V` to change value list it will swap between JBTC and JBTR and also update item data
+        Currently supported:
+        - JBTC (Jailbreak Trading Core)
+        - JBTR (Jailbreak Trading.net)
+    - `U` to update value lists data (can take a while refer to FAQ `how to update values`)
+
+    # Search boxes
+    - `Enter` confirms selection
+    - `Arrow up` and `Arrow down` to move up and down
+
+
+FAQ:
+    - Why use jbterminal?
+    Well jbterminal is more superior to jbtr.net calculator and jbvalues. 
+    It has additional features like auto dupe checking, multiple value list support (ui that isnt shitty in my opinion). 
+    It's also open source so you can edit the source code to your needs and add features.
+    
+    - Is jbterminal safe?
+    Yes, it's also open source so you can check the code.
+
+    - How to update values?
+        a) You have initialized data/config.json api key
+            Just press `U`
+        b) You didnt provide api key
+            If you dont have an google api key only JBTR will update.
+            How to get a google spreadsheet api key? Look up online. 
+            Once you have the key add it to data/config.json inside the parenthesis like this:
+                api_key: "" <-- Your key inside parenthesis
+
+Updates:
+    - v1.2.0
+        - Ui terminal
+        - Easy to use calculator
+        - Auto dupe checking
+        - Info about items
+    
+    - under v1.2.0
+        ???
