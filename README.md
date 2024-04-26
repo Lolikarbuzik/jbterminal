@@ -14,7 +14,7 @@ Share it with other people and give me feedback in the `issues` tab Btw if you
 want to give me in-game items find me in game and trade with me :)
 
 ## Downloading
-You can only download this for windows refer to [MacOS Download](https://github.com/Lolikarbuzik/jbterminal/#MacOS_Download)
+You can only download this for windows. On how to install it on mac go to `MacOS download`
 1. Download the latest release
 2. Unzip it
 3. Run the jbterminal.exe
