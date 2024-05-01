@@ -39,7 +39,7 @@ FAQ:
                 api_key: "" <-- Your key inside parenthesis
 
 Updates:
-    - v1.2.0
+    - v0.2.0
         - Ui terminal
         - Easy to use calculator
         - Auto dupe checking
