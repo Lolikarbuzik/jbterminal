@@ -1,4 +1,4 @@
-# jbterminal (v0.2.0)
+# jbterminal (v0.2.1)
 Best value calculator out there (in my opinion).
 
 There will be a web version coming out soon.
