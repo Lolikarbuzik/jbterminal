@@ -32,11 +32,7 @@ FAQ:
     - How to update values?
 	Press `U`
 Updates:
-	- v0.2.1
-        - Easier value updating
-        - New dupe checking interface
-
-    - v0.2.0
+    - v1.2.0
         - Ui terminal
         - Easy to use calculator
         - Auto dupe checking
