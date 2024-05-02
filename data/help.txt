@@ -45,5 +45,5 @@ Updates:
         - Auto dupe checking
         - Info about items
     
-    - under v1.2.0
+    - under v0.2.0
         ???
