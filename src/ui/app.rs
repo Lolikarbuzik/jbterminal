@@ -189,7 +189,7 @@ impl App {
                     })
                     .map(|(_, v)| v.to_owned())
                     .collect::<Vec<_>>()
-                    .join("\n"),
+                    .join("\n"),    
             ),
             f.size(),
         );
