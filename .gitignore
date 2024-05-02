@@ -1,4 +1,2 @@
 /target
-/private
-/releases/*
-/releases
+/release
