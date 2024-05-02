@@ -2,10 +2,8 @@
 
 Best value calculator out there (in my opinion) that is free and open-source
 
-## Update v0.2.0
-
-This is major update since i've rewritten the entire app in rust and made brand
-new ui so expect bugs and definitely search bugs so please report them!
+## Update v0.2.1
+Removed the need for configs since every value list downloaded
 
 ## Supporting this project
 

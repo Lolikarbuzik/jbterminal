@@ -30,20 +30,17 @@ FAQ:
     Yes, it's also open source so you can check the code.
 
     - How to update values?
-        a) You have initialized data/config.json api key
-            Just press `U`
-        b) You didnt provide api key
-            If you dont have an google api key only JBTR will update.
-            How to get a google spreadsheet api key? Look up online. 
-            Once you have the key add it to data/config.json inside the parenthesis like this:
-                api_key: "" <-- Your key inside parenthesis
-
+	Press `U`
 Updates:
-    - v1.2.0
+	- v0.2.1
+        - Easier value updating
+        - New dupe checking interface
+
+    - v0.2.0
         - Ui terminal
         - Easy to use calculator
         - Auto dupe checking
         - Info about items
     
-    - under v1.2.0
+    - under v0.2.0
         ???

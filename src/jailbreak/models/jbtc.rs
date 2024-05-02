@@ -1,7 +1,5 @@
-mod parser;
 use super::super::traits::BaseJBTrader;
 use crate::jailbreak::types::JBItem;
-pub use parser::parse;
 use serde_json::from_str;
 
 const FILE_PATH: &str = "data/jbtc.json";

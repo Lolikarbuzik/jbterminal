@@ -1,18 +1,6 @@
 use serde_derive::{Deserialize, Serialize};
 
 #[derive(Clone, Debug, PartialEq, Deserialize, Serialize)]
-pub struct JBTerminalConfig {
-    pub api_key: String,
-}
-
-impl JBTerminalConfig {
-    pub fn new() -> Self {
-        let content = std::fs::read_to_string("data/config.json").unwrap();
-        serde_json::from_str(&content).unwrap()
-    }
-}
-
-#[derive(Clone, Debug, PartialEq, Deserialize, Serialize)]
 pub struct JBItem {
     pub name: String,
     pub value: u32,
@@ -21,6 +9,11 @@ pub struct JBItem {
     pub notes: Option<String>,
     pub og: Option<String>,
     pub category: JBItemType,
+}
+#[derive(Clone, Debug, PartialEq, Deserialize, Serialize)]
+pub struct JBDuper {
+    pub name: String,
+    pub item: Option<String>,
 }
 
 #[derive(Clone, Copy, Debug, PartialEq, Deserialize, Serialize)]
@@ -73,6 +66,7 @@ pub enum JBItemDemand {
     Mid,
     Decent,
     High,
+    VeryHigh,
     Decreasing,
 }
 

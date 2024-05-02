@@ -1,1 +1,2557 @@
-[{"name":"Beam Hybrid","value":22500000,"demand":"Mid","duped_value":17500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Crew Capsule","value":10000000,"demand":"Mid","duped_value":7500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Volt 4x4","value":4000000,"demand":"Mid","duped_value":3000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Rattler","value":2750000,"demand":"Mid","duped_value":2500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Banana Car","value":15000000,"demand":"Mid","duped_value":12500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Beignet","value":20000000,"demand":"Mid","duped_value":17500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Icebreaker","value":22500000,"demand":"Mid","duped_value":20000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Celsior","value":25000000,"demand":"Mid","duped_value":22500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Jack Rabbit","value":1000000,"demand":"VeryLow","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Macaron","value":4000000,"demand":"Mid","duped_value":3000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Tiny Toy","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Bloxy","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Goliath","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Bandit","value":3000000,"demand":"Mid","duped_value":2500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Proto-08","value":17500000,"demand":"Mid","duped_value":15000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Shogun","value":3000000,"demand":"Decent","duped_value":2500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Poseidon","value":2500000,"demand":"VeryLow","duped_value":2000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Power-1","value":7500000,"demand":"Mid","duped_value":5000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Longhorn","value":1000000,"demand":"VeryLow","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Frost Crawler","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"The Striker","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"OG Monster Truck","value":2500000,"demand":"Decent","duped_value":2000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Torpedo","value":30000000,"demand":"Decent","duped_value":27500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Arachnid","value":27500000,"demand":"Mid","duped_value":25000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Javelin","value":20000000,"demand":"Mid","duped_value":17500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Raptor","value":15000000,"demand":"Mid","duped_value":12500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Molten M12","value":7500000,"demand":"Decent","duped_value":5000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"JB8","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Parisian","value":3500000,"demand":"Decent","duped_value":3000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Brulee","value":3000000,"demand":"Mid","duped_value":2500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Aperture","value":2750000,"demand":"Decent","duped_value":2500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Agent","value":2500000,"demand":"VeryLow","duped_value":2000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Torero","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Carbonara","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Concept","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Air Tail","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Snake","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Black Hawk","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Drone","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Jet Fighter","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Megalodon","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Monster Truck","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Sloop","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Tank","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Trailblazer","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Volt Bike","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Shell Classic","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Crown","value":666000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Successor V8","value":649000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Eclaire","value":600000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Roadster","value":600000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Hammerhead","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Vehicle"},{"name":"OG La Matador","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Vehicle"},{"name":"UFO","value":500000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Stunt Plane","value":300000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"The XRK","value":299000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Classic","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Laviolette","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Mighty","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Vehicle"},{"name":"NASCAR #75","value":250000,"demand":"VeryLow","duped_value":100000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Posh","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Sentinel","value":250000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Speed Yacht","value":250000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Steed","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Vehicle"},{"name":"SUV","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Vehicle"},{"name":"Desert Crawler","value":229000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Stallion","value":200000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Ray 9","value":199000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Little Bird","value":190000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Delorean","value":175000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Firetruck","value":175000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Falcon S","value":150000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Prison Bus","value":150000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Surus","value":109000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Cybertruck","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Escape Bot","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Fiasco","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"La Matador","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Semi Truck","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Shell Mark-5","value":92000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Ambulance","value":90000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Tow Truck","value":80000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Camper","value":79000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Challenger","value":59000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Boxer","value":55000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"ATV","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Jet Ski","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Badger","value":45000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Dune Buggy","value":45000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Patrol Bike","value":45000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Dirtbike","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Interrogator","value":30000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Ray","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Model 3","value":16000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Vehicle"},{"name":"Snowstorm","value":6000000,"demand":"Mid","duped_value":5000000,"notes":null,"og":null,"category":"Texture"},{"name":"Fire Texture","value":4000000,"demand":"Mid","duped_value":3000000,"notes":null,"og":null,"category":"Texture"},{"name":"Vantablack","value":20000000,"demand":"Mid","duped_value":17500000,"notes":null,"og":null,"category":"Texture"},{"name":"Galactic Carbon","value":3500000,"demand":"Mid","duped_value":3000000,"notes":null,"og":null,"category":"Texture"},{"name":"Digital Confetti","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Texture"},{"name":"Earthquake","value":2000000,"demand":"Mid","duped_value":1500000,"notes":null,"og":null,"category":"Texture"},{"name":"Drip Texture","value":10000000,"demand":"Mid","duped_value":7500000,"notes":null,"og":null,"category":"Texture"},{"name":"Crimson Racer","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Texture"},{"name":"Flaming","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Texture"},{"name":"Gulf Texture","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Texture"},{"name":"Black Ice","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Texture"},{"name":"Winter Camo","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Texture"},{"name":"Circuits","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Texture"},{"name":"Old Town Road","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Texture"},{"name":"White Marble","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Texture"},{"name":"Superstar","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Wooden Toy","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Radar Camo","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Lava Texture","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Touchdown","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Manga Texture","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Texture"},{"name":"Aquatic Skin","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Graffiti Skin","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Bandit Skin","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Aurora Skin","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Road Hazard","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"OG Ogre Texture","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Texture"},{"name":"Checkers","value":27500000,"demand":"Mid","duped_value":25000000,"notes":null,"og":null,"category":"Texture"},{"name":"Armor Texture","value":2000000,"demand":"Mid","duped_value":1500000,"notes":null,"og":null,"category":"Texture"},{"name":"Blue Pixel","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Texture"},{"name":"Gold Color","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Texture"},{"name":"Orange Pixel","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Texture"},{"name":"Pixel Texture","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Texture"},{"name":"Earth Texture","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Texture"},{"name":"Field Texture","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Texture"},{"name":"Lightning","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Texture"},{"name":"Money Texture","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Texture"},{"name":"Tiger Texture","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Texture"},{"name":"Glowing Yellow","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Texture"},{"name":"Wavy Texture","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Texture"},{"name":"Bacon Texture","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Texture"},{"name":"Hotdog Texture","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Texture"},{"name":"Purple Flame","value":120000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"ClassicVar1","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"ClassicVar3","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Lady Bug","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Peach Texture","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Carbon Fire","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Dragon Scales","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Desert Camo","value":80000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Road Warrior","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Camo Texture","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Nuclear Waste","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Watermelon","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Wireframe","value":45000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Candy Cane","value":40000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Diamond","value":40000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Donut Texture","value":40000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Galaxy Texture","value":40000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Scorch Texture","value":40000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Zebra Texture","value":40000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Volcano","value":39000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Camo Shark","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Lines Texture","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Patchy Jeans","value":30000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Ball Texture","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Frit Texture","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Galaxy Wave","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Ice Texture","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Swirl Texture","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Two Sided","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Taxi Texture","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Texture"},{"name":"Star Wings","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Rocket Thrusters","value":25000000,"demand":"VeryLow","duped_value":22500000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Volt Wings","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Deathtrap","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Tiki Torch","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Clickbait","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Tuner Spoiler","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Velocity","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"JDM Wing","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Winter Log","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Snow Shovel","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Overdrive","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Mecha Arm","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Travel Case","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Glider Wing","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Bike Rack","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Trophy Wings","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Cash Spitter","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Remote Control","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Water Gun","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Jetpack Spoiler","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Turning Key","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Tank Wing","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Afterburner","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Deathray","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Flamethrower","value":1500000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Do You Lift","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Endurance","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Torii Gate","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Lantern Wing","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Surfboard","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Shell Speaker","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Italy Colors","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Leaning Wings","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Native Wings","value":50000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Windmill","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Bull Horns","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Ski Day","value":50000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Snow Cannon","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Scythe Wing","value":50000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Animated Sawblades","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Flaming Skull","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"OG Fuel Thrusters","value":500000,"demand":"Decent","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Glider Shop Wing","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"2 Billion","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"5 Star Spoiler","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Eight Leg","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Brickset Spoiler","value":4000000,"demand":"Mid","duped_value":3000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Dual Rockets","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Dual Flags","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Spare Spoiler","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Blue Chute","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"UFO Spoiler","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Spoiler"},{"name":"3 Billion","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Live Glider","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Orange Chute","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Triple Fin","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Robowing","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Sail Spoiler","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Spoiler"},{"name":"Laser Wire","value":250000,"demand":"VeryLow","duped_value":100000,"notes":null,"og":null,"category":"Spoiler"},{"name":"5 Flags Spoiler","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Dinosaur Bone","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Dragon Breath","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Harpoon Wing","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"King Spoiler","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Meteor Magnet","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Tesla Spoiler","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Trouble Wing","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"GTR Spoiler","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Racer Spoiler","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"XRK Aero Wing","value":55000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Bat Wings","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Catch Me","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Mark 5 Spoiler","value":30000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Park Bench","value":30000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Aerial Support","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Police That Way","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Dragster Wing","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Tailfin Spoiler","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Boomerang","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Racing Wing","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Tall Arch","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Tsutek Wing","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Arch Spoiler","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Eternal Flame","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Flame Spitter","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Nitro Wing","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Spares Spoiler","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Tiny Wing","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Wingo Wing","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Spoiler"},{"name":"Bull Rims","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Rim"},{"name":"Void Rims","value":22500000,"demand":"Mid","duped_value":20000000,"notes":null,"og":null,"category":"Rim"},{"name":"Planet Rims","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Rim"},{"name":"Compass Rims","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Rim"},{"name":"RTX Rims","value":17500000,"demand":"Decent","duped_value":15000000,"notes":null,"og":null,"category":"Rim"},{"name":"Retro Racer","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Rim"},{"name":"Center Lock","value":2000000,"demand":"Mid","duped_value":1500000,"notes":null,"og":null,"category":"Rim"},{"name":"Icicle Rims","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Rim"},{"name":"Snow Face","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Rim"},{"name":"Trion Rims","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Ionize Rims","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Rim"},{"name":"Energy Rims","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Rim"},{"name":"Iron Rock Rims","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Rim"},{"name":"Beadlock Rims","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Rim"},{"name":"Roll-X Clock","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Rim"},{"name":"Diamond Steel","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Rim"},{"name":"Teddy Bear","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Track Toy","value":2000000,"demand":"Mid","duped_value":1500000,"notes":null,"og":null,"category":"Rim"},{"name":"Scope Rims","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Radar Rims","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Rim"},{"name":"Unknown Signal","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Laser Cannon","value":6000000,"demand":"Decent","duped_value":5000000,"notes":null,"og":null,"category":"Rim"},{"name":"Sawblade","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Baller Rims","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Rim"},{"name":"Fore Rims","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Rim"},{"name":"Stance Rims","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Rim"},{"name":"Sakura Rims","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Rim"},{"name":"Volleyball Rims","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Ducky Float","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Rim"},{"name":"Beachball","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Waffle Rims","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Heritage Rims","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Cloverleaf","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Rim"},{"name":"Gunfire Rims","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Tumbleweed","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Rim"},{"name":"Wagon Rims","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Rim"},{"name":"Marshmallow","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Peppermint","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Frostburn","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Biohazard","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Road Warrior","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Helicopter Blade","value":50000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Handcuff Chain","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Spinner Rims","value":15000000,"demand":"Mid","duped_value":12500000,"notes":null,"og":null,"category":"Rim"},{"name":"Brickset Rims","value":4000000,"demand":"Mid","duped_value":3000000,"notes":null,"og":null,"category":"Rim"},{"name":"Hypno Rims","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Rim"},{"name":"Snowflake","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Rim"},{"name":"Blue Eye Rims","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Rim"},{"name":"Distorted Rims","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Rim"},{"name":"Nemesis Rims","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Rim"},{"name":"Red Eye Rims","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Rim"},{"name":"Spider Leg","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Rim"},{"name":"Star Badge","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Rim"},{"name":"Soccer Rims","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Rim"},{"name":"Live 2020 Rims","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Rim"},{"name":"Bonded Rims","value":250000,"demand":"VeryLow","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Piggy Rims","value":250000,"demand":"VeryLow","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"Tesseract Rims","value":250000,"demand":"VeryLow","duped_value":100000,"notes":null,"og":null,"category":"Rim"},{"name":"4 Billion Rims","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Dino Rims","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Electrostatic","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Live 2024 Rims","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Radioactive","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Ship Wheel","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Star Rims","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Vault Door","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Doubloon Rims","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Dragon Chaser","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Hold E Rims","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Subcarbon","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Unified Rims","value":40000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Cobweb Rims","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Police Chase","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Propeller Rims","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Rally Rims","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Reactor Rims","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"SRT Rims","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"VFX Rims","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Bloxy Rims","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Daytona Rims","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"EXP-1 Rims","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Space-R Rims","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Spyglass Rims","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Vecchio Rims","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Abstract Rims","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Forged Rims","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Landmine","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Mystic Rims","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"RFX Rims","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"RX-1 Rims","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Spike Rims","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Rim"},{"name":"Army Tires","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Champion","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Tokyo Tires","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Kanagawa","value":1000000,"demand":"VeryLow","duped_value":750000,"notes":null,"og":null,"category":"Tires"},{"name":"Preserver Tires","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Europe Flags","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Snowchain","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Tires"},{"name":"Spiked Tires","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Tires"},{"name":"Donut Shop Tires","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Tires"},{"name":"Blue Level 50","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Tires"},{"name":"Red Level 50","value":2500000,"demand":"Mid","duped_value":2000000,"notes":null,"og":null,"category":"Tires"},{"name":"Blue Season 3","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Tires"},{"name":"Red Season 3","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Tires"},{"name":"3 Billion Tires","value":750000,"demand":"VeryLow","duped_value":500000,"notes":null,"og":null,"category":"Tires"},{"name":"Lightning Tires","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Japanese Tires","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Speed Tires","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Radar Tires","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Tracer Tires","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Leapyear Tires","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"NASCAR #75","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Sport Tread","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Thick Tread","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Treaded Style","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Classic Sport","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Classic Thick","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Crash Nation","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Criminal Tires","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"DatBrian","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"DenisDaily","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"HelloItsVG","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Jailbreak Tires","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"JBMS Tires","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"KraoESP","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"KreekCraft","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Line Tires","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Monster Style","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"MyUsernamesThis","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"NASCAR Tires","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"NapkinNate","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"NoobFreak","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Offroad Style","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"PGHLFilms","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Phindr Tires","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Police Tires","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Thin Tires","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Construction","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Parisian Tires","value":12500,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Tires"},{"name":"Hyper Blue Level I","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Blue Level II","value":2000000,"demand":"Mid","duped_value":1500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Blue Level III","value":10000000,"demand":"Mid","duped_value":7500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Blue Level IV","value":30000000,"demand":"Decreasing","duped_value":27500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Blue Level V","value":32500000,"demand":"Mid","duped_value":30000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Diamond Level I","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Diamond Level II","value":2000000,"demand":"Mid","duped_value":1500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Diamond Level III","value":10000000,"demand":"Mid","duped_value":7500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Diamond Level IV","value":27500000,"demand":"Decreasing","duped_value":25000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Diamond Level V","value":30000000,"demand":"Mid","duped_value":27500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Green Level I","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Green Level II","value":2000000,"demand":"Mid","duped_value":1500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Green Level III","value":7500000,"demand":"Mid","duped_value":5000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Green Level IV","value":27500000,"demand":"Decreasing","duped_value":25000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Green Level V","value":30000000,"demand":"Mid","duped_value":27500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Orange Level I","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Orange Level II","value":1250000,"demand":"Mid","duped_value":1000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Orange Level III","value":7500000,"demand":"Mid","duped_value":5000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Orange Level IV","value":20000000,"demand":"Decreasing","duped_value":17500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Orange Level V","value":22500000,"demand":"Mid","duped_value":20000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Pink Level I","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Pink Level II","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Pink Level III","value":7500000,"demand":"Mid","duped_value":5000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Pink Level IV","value":27500000,"demand":"Decreasing","duped_value":25000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Pink Level V","value":30000000,"demand":"Mid","duped_value":27500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Purple Level I","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Purple Level II","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Purple Level III","value":7500000,"demand":"Mid","duped_value":5000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Purple Level IV","value":25000000,"demand":"Decreasing","duped_value":22500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Purple Level V","value":27500000,"demand":"Mid","duped_value":25000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Red Level I","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Red Level II","value":2000000,"demand":"Mid","duped_value":1500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Red Level III","value":10000000,"demand":"Mid","duped_value":7500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Red Level IV","value":30000000,"demand":"Decreasing","duped_value":27500000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Red Level V","value":32500000,"demand":"Mid","duped_value":30000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Yellow Level I","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Yellow Level II","value":1000000,"demand":"Mid","duped_value":750000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Yellow Level III","value":5000000,"demand":"Mid","duped_value":4000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Yellow Level IV","value":17500000,"demand":"Decreasing","duped_value":15000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Yellow Level V","value":17500000,"demand":"VeryLow","duped_value":15000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Shift Level IV","value":175000000,"demand":"Mid","duped_value":150000000,"notes":null,"og":null,"category":"Color"},{"name":"Hyper Shift Level V","value":225000000,"demand":"Mid","duped_value":175000000,"notes":null,"og":null,"category":"Color"},{"name":"Vantablack","value":20000000,"demand":"Mid","duped_value":17500000,"notes":null,"og":null,"category":"Color"},{"name":"Gold Color","value":1500000,"demand":"Mid","duped_value":1250000,"notes":null,"og":null,"category":"Color"},{"name":"Radiant Ice","value":750000,"demand":"Mid","duped_value":500000,"notes":null,"og":null,"category":"Color"},{"name":"Radiant Orange","value":500000,"demand":"Mid","duped_value":250000,"notes":null,"og":null,"category":"Color"},{"name":"Radiant Yellow","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Color"},{"name":"Radiant Green","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Color"},{"name":"Radiant Purple","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Color"},{"name":"Fall Chrome","value":250000,"demand":"Mid","duped_value":100000,"notes":null,"og":null,"category":"Color"},{"name":"Radiant Red","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Color"},{"name":"Dark Purple","value":100000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Color"},{"name":"Radiant Pink","value":50000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Color"},{"name":"Super Lime","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Color"},{"name":"Camaro Bed","value":2500000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"RGB Wall Lights","value":1250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Trapped Bookshelf","value":2500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Tiger Skin Rug","value":1000000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Sarcophagus Bed","value":2500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Gamer Chair","value":1000000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Trophy Case","value":500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Noob Scream","value":2500000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Racecar Bed","value":750000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Simulator Rig","value":2500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Vehicle Pool Table","value":250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Hot Chocolate Tub","value":1250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Air Hockey Table","value":1000000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Teleport Chambers","value":1250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Sci-fi Kitchen","value":2500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Picnic Table","value":750000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Fame Star Rug","value":750000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Royal Throne","value":750000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Puzzle Couch","value":750000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Missile Bed","value":500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Nukamo Fridge","value":250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Hero Zapper","value":250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Cryo Chamber","value":500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Foosball Table","value":250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Basketball Arcade","value":500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Sakura Tree","value":250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Neon Sign","value":250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Beach Hammock","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Tiki Bar","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"London Booth Sofa","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Croissant Sofa","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Wanted Sign","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"The Old Wagon","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Aurora Light","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Radiation Detector","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"OG Snow Machine","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"OG Giant Snowman","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Blue DJ Booth","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Orbital Chandelier","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Seafloor Aquarium ","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Supersuit Display","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Bloxy Lisa","value":1000000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Cyber Couch","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Dance Floor","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Donut Vending Machine","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Energy Vending Machine","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Gun Rack","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Missile Sofa","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Museum Chandelier","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Plane Furniture","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"RGB Machine","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Super Star Rug","value":250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"Furniture"},{"name":"Snowstorm Skin","value":1250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Fire Gun Skin","value":1250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Galactic Gun Skin","value":750000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Confetti Gun Skin","value":250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Earthquake Skin","value":500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Drip Gun Skin","value":5000000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Flaming Gun Skin","value":750000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Black Ice Gun Skin","value":500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Circuits Gun Skin","value":1250000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"White Marble Gun Skin","value":500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Aquatic Gun Skin","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Manga Gun Skin","value":50000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Camo Gun Skin","value":30000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Camo Radar Gun Skin","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Donut Gun Skin","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Money Gun Skin","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Zebra Gun Skin","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Candy Cane Gun Skin","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Tiger Gun Skin","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Wooden Toy Gun Skin","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"GunTexture"},{"name":"Ahooga Horn","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Airhorn Horn","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Champion","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Clown Horn","value":20000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Cucaracha","value":1000000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Drop Weapons","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Meep Meep","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Quack Horn","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Sendoff Horn","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Steamer Horn","value":15000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Train Horn","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Winner Horn","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"VehicleHorn"},{"name":"Aurora Drift","value":500000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Sparks Drift","value":500000,"demand":"Mid","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"OG Rocket Fuel","value":500000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Lightning","value":400000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Flamethrower","value":300000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Magic Purple","value":100000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Pixel Particles","value":75000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Bubble Wand","value":45000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Cartoon","value":35000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Cosmic Particles","value":30000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Melon Particles","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"},{"name":"Performance","value":25000,"demand":"VeryLow","duped_value":null,"notes":null,"og":null,"category":"DriftParticle"}]
+[
+  {
+    "name": "Beam Hybrid",
+    "demand": "Decent",
+    "duped_value": 20000000,
+    "value": 22500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Crew Capsule",
+    "demand": "Decent",
+    "duped_value": 7500000,
+    "value": 10000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Volt 4x4",
+    "demand": "Decent",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Rattler",
+    "demand": "Decent",
+    "duped_value": 2500000,
+    "value": 2750000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Banana Car",
+    "demand": "Mid",
+    "duped_value": 14000000,
+    "value": 16000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Beignet",
+    "demand": "Decent",
+    "duped_value": 20000000,
+    "value": 22500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Icebreaker",
+    "demand": "Mid",
+    "duped_value": 17500000,
+    "value": 20000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Celsior",
+    "demand": "Decent",
+    "duped_value": 20000000,
+    "value": 22500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Jack Rabbit",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Macaron",
+    "demand": "Mid",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Tiny Toy",
+    "demand": "Decent",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Bloxy",
+    "demand": "Mid",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Goliath",
+    "demand": "Decent",
+    "duped_value": 4000000,
+    "value": 5000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Bandit",
+    "demand": "Decent",
+    "duped_value": 2500000,
+    "value": 3000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Proto-08",
+    "demand": "Decent",
+    "duped_value": 15000000,
+    "value": 17500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Shogun",
+    "demand": "Decent",
+    "duped_value": 2500000,
+    "value": 3000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Poseidon",
+    "demand": "VeryLow",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Power-1",
+    "demand": "Mid",
+    "duped_value": 5000000,
+    "value": 7500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Longhorn",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Frost Crawler",
+    "demand": "VeryLow",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "The Striker",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "OG Monster Truck",
+    "demand": "Decent",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Torpedo",
+    "demand": "Decent",
+    "duped_value": 30000000,
+    "value": 32500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Arachnid",
+    "demand": "Mid",
+    "duped_value": 25000000,
+    "value": 27500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Javelin",
+    "demand": "Decent",
+    "duped_value": 17500000,
+    "value": 20000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Raptor",
+    "demand": "Mid",
+    "duped_value": 12500000,
+    "value": 15000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Molten M12",
+    "demand": "Decent",
+    "duped_value": 6000000,
+    "value": 8000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "JB8",
+    "demand": "Mid",
+    "duped_value": 4000000,
+    "value": 5000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Parisian",
+    "demand": "Decent",
+    "duped_value": 3000000,
+    "value": 3500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Brulee",
+    "demand": "Mid",
+    "duped_value": 3000000,
+    "value": 3500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Aperture",
+    "demand": "Decent",
+    "duped_value": 2500000,
+    "value": 2750000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Agent",
+    "demand": "VeryLow",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Torero",
+    "demand": "Decent",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Carbonara",
+    "demand": "Decent",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Concept",
+    "demand": "Decent",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Air Tail",
+    "demand": "Decent",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Snake",
+    "demand": "Decent",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Black Hawk",
+    "demand": "Decent",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Drone",
+    "demand": "Decent",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Jet Fighter",
+    "demand": "Mid",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Megalodon",
+    "demand": "Mid",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Monster Truck",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Sloop",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Tank",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Trailblazer",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Volt Bike",
+    "demand": "Decent",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Shell Classic",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Crown",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 666000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Successor58",
+    "demand": "Decent",
+    "duped_value": null,
+    "value": 649000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Eclaire",
+    "demand": "Decent",
+    "duped_value": null,
+    "value": 600000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Roadster",
+    "demand": "Decent",
+    "duped_value": null,
+    "value": 600000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Hammerhead",
+    "demand": "Mid",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "OG La Matador",
+    "demand": "Mid",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "UFO",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 500000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Stunt Plane",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 300000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "The XRK",
+    "demand": "Decent",
+    "duped_value": null,
+    "value": 299000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Classic",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Laviolette",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Mighty",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "NASCAR #75",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Posh",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Sentinel",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Speed Yacht",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Steed",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "SUV",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Desert Crawler",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 229000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Stallion",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 200000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Ray 9",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 199000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Little Bird",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 190000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Delorean",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 175000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Firetruck",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 175000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Falcon S",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 150000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Prison Bus",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 150000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Surus",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 109000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Cybertruck",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Escape Bot",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Fiasco",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "La Matador",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Semi Truck",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Vehicle"
+  },
+  {
+    "name": "Snowstorm",
+    "demand": "Mid",
+    "duped_value": 4000000,
+    "value": 5000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Fire Texture",
+    "demand": "Mid",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Vantablack",
+    "demand": "Decent",
+    "duped_value": 17500000,
+    "value": 20000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Galactic Carbon",
+    "demand": "Mid",
+    "duped_value": 3000000,
+    "value": 3500000,
+    "category": "Texture"
+  },
+  {
+    "name": "Digital Confetti",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Texture"
+  },
+  {
+    "name": "Earthquake",
+    "demand": "VeryLow",
+    "duped_value": 1500000,
+    "value": 2000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Drip Texture",
+    "demand": "Decent",
+    "duped_value": 7500000,
+    "value": 10000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Crimson Racer",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Flaming",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Texture"
+  },
+  {
+    "name": "Gulf Texture",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Texture"
+  },
+  {
+    "name": "Black Ice",
+    "demand": "Mid",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Texture"
+  },
+  {
+    "name": "Winter Camo",
+    "demand": "Mid",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Texture"
+  },
+  {
+    "name": "Circuits",
+    "demand": "VeryLow",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Old Town Road",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Texture"
+  },
+  {
+    "name": "White Marble",
+    "demand": "Mid",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Texture"
+  },
+  {
+    "name": "Superstar",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Wooden Toy",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Radar Camo",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Lava Texture",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Touchdown",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Manga Texture",
+    "demand": "Decent",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Aquatic Skin",
+    "demand": "Mid",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Graffiti Skin",
+    "demand": "Mid",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Bandit Skin",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Aurora Skin",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Road Hazard",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "OG Ogre Texture",
+    "demand": "Mid",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Checkers",
+    "demand": "Mid",
+    "duped_value": 25000000,
+    "value": 27500000,
+    "category": "Texture"
+  },
+  {
+    "name": "Armor Texture",
+    "demand": "VeryLow",
+    "duped_value": 1500000,
+    "value": 2000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Blue Pixel",
+    "demand": "Mid",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Texture"
+  },
+  {
+    "name": "Gold Color",
+    "demand": "Mid",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Texture"
+  },
+  {
+    "name": "Orange Pixel",
+    "demand": "Mid",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Texture"
+  },
+  {
+    "name": "Pixel Texture",
+    "demand": "Mid",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Earth Texture",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Field Texture",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Lightning",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Money Texture",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Tiger Texture",
+    "demand": "Mid",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Texture"
+  },
+  {
+    "name": "Glowing Yellow",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Wavy Texture",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Texture"
+  },
+  {
+    "name": "Bacon Texture",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Texture"
+  },
+  {
+    "name": "Hotdog Texture",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Texture"
+  },
+  {
+    "name": "Purple Flame",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 120000,
+    "category": "Texture"
+  },
+  {
+    "name": "ClassicVar1",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Texture"
+  },
+  {
+    "name": "ClassicVar3",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Texture"
+  },
+  {
+    "name": "Lady Bug",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Texture"
+  },
+  {
+    "name": "Peach Texture",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Texture"
+  },
+  {
+    "name": "Carbon Fire",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Texture"
+  },
+  {
+    "name": "Dragon Scales",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Texture"
+  },
+  {
+    "name": "Hyper Blue L1",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Blue L2",
+    "demand": "VeryLow",
+    "duped_value": 1500000,
+    "value": 2000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Blue L3",
+    "demand": "VeryLow",
+    "duped_value": 7500000,
+    "value": 10000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Blue L4",
+    "demand": "Mid",
+    "duped_value": 27500000,
+    "value": 30000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Blue L5",
+    "demand": "Decent",
+    "duped_value": 30000000,
+    "value": 32500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Diamond L1",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Diamond L2",
+    "demand": "VeryLow",
+    "duped_value": 1500000,
+    "value": 2000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Diamond L3",
+    "demand": "VeryLow",
+    "duped_value": 7500000,
+    "value": 10000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Diamond L4",
+    "demand": "Mid",
+    "duped_value": 25000000,
+    "value": 27500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Diamond L5",
+    "demand": "Decent",
+    "duped_value": 27500000,
+    "value": 30000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Green L1",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Green L2",
+    "demand": "VeryLow",
+    "duped_value": 1500000,
+    "value": 2000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Green L3",
+    "demand": "VeryLow",
+    "duped_value": 5000000,
+    "value": 7500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Green L4",
+    "demand": "VeryLow",
+    "duped_value": 25000000,
+    "value": 27500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Green L5",
+    "demand": "Mid",
+    "duped_value": 27500000,
+    "value": 30000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Orange L1",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Orange L2",
+    "demand": "VeryLow",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Orange L3",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Orange L4",
+    "demand": "VeryLow",
+    "duped_value": 17500000,
+    "value": 20000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Orange L5",
+    "demand": "Mid",
+    "duped_value": 20000000,
+    "value": 22500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Pink L1",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Pink L2",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Pink L3",
+    "demand": "VeryLow",
+    "duped_value": 5000000,
+    "value": 7500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Pink L4",
+    "demand": "VeryLow",
+    "duped_value": 25000000,
+    "value": 27500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Pink L5",
+    "demand": "Mid",
+    "duped_value": 27500000,
+    "value": 30000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Purple L1",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Purple L2",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Purple L3",
+    "demand": "VeryLow",
+    "duped_value": 5000000,
+    "value": 7500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Purple L4",
+    "demand": "VeryLow",
+    "duped_value": 22500000,
+    "value": 25000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Purple L5",
+    "demand": "Mid",
+    "duped_value": 25000000,
+    "value": 27500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Red L1",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Red L2",
+    "demand": "VeryLow",
+    "duped_value": 1500000,
+    "value": 2000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Red L3",
+    "demand": "VeryLow",
+    "duped_value": 7500000,
+    "value": 10000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Red L4",
+    "demand": "VeryLow",
+    "duped_value": 27500000,
+    "value": 30000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Red L5",
+    "demand": "Mid",
+    "duped_value": 30000000,
+    "value": 32500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Yellow L1",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Yellow L2",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Yellow L3",
+    "demand": "VeryLow",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Yellow L4",
+    "demand": "VeryLow",
+    "duped_value": 15000000,
+    "value": 17500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Yellow L5",
+    "demand": "VeryLow",
+    "duped_value": 15000000,
+    "value": 17500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Shift L4",
+    "demand": "VeryLow",
+    "duped_value": 150000000,
+    "value": 175000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Hyper Shift L5",
+    "demand": "Mid",
+    "duped_value": 175000000,
+    "value": 225000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Vantablack",
+    "demand": "Decent",
+    "duped_value": 17500000,
+    "value": 20000000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Gold Color",
+    "demand": "Mid",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Radiant Ice",
+    "demand": "Decent",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Radiant Orange",
+    "demand": "Mid",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Radiant Yellow",
+    "demand": "Mid",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Radiant Green",
+    "demand": "Mid",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Radiant Purple",
+    "demand": "Mid",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Fall Chrome",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Radiant Red",
+    "demand": "Mid",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Dark Purple",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Hyperchrome"
+  },
+  {
+    "name": "Star Wings",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Rocket Thrusters",
+    "demand": "VeryLow",
+    "duped_value": 22500000,
+    "value": 25000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Volt Wings",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Deathtrap",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Tiki Torch",
+    "demand": "VeryLow",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Clickbait",
+    "demand": "VeryLow",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Tuner Spoiler",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Velocity",
+    "demand": "VeryLow",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "JDM Wing",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Winter Log",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Snow Shovel",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Overdrive",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Mecha Arm",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Travel Case",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Glider Wing",
+    "demand": "VeryLow",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Bike Rack",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Trophy Wings",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Cash Spitter",
+    "demand": "Decent",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Remote Control",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Water Gun",
+    "demand": "Mid",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Jetpack Spoiler",
+    "demand": "VeryLow",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Turning Key",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Tank Wing",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Afterburner",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Deathray",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Flamethrower",
+    "demand": "VeryLow",
+    "duped_value": 1000000,
+    "value": 1500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Do You Lift",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Endurance",
+    "demand": "Mid",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Torii Gate",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Lantern Wing",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Surfboard",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Shell Speaker",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Italy Colors",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Leaning Wings",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Windmill",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Bull Horns",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Snow Cannon",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Animated Sawblades",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Flaming Skull",
+    "demand": "Mid",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "OG Fuel Thrusters",
+    "demand": "Decent",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Glider Shop Wing",
+    "demand": "Decent",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "2 Billion",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "5 Star Spoiler",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Brickset Spoiler",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Eight Leg",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Dual Rockets",
+    "demand": "Mid",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Dual Flags",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Spare Spoiler",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Blue Chute",
+    "demand": "Mid",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "UFO Spoiler",
+    "demand": "Mid",
+    "duped_value": 1000000,
+    "value": 1250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "3 Billion",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Live Glider",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Orange Chute",
+    "demand": "Mid",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Triple Fin",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Robowing",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Sail Spoiler",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Laser Wire",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "5 Flags Spoiler",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Dinosaur Bone",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Dragon Breath",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Harpoon Wing",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "King Spoiler",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Meteor Magnet",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Tesla Spoiler",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Trouble Wing",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Spoiler"
+  },
+  {
+    "name": "Bull Rims",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Void Rims",
+    "demand": "VeryLow",
+    "duped_value": 20000000,
+    "value": 22500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Planet Rims",
+    "demand": "VeryLow",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Compass Rims",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Rim"
+  },
+  {
+    "name": "RTX Rims",
+    "demand": "Mid",
+    "duped_value": 15000000,
+    "value": 17500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Retro Racer",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Center Lock",
+    "demand": "VeryLow",
+    "duped_value": 1500000,
+    "value": 2000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Icicle Rims",
+    "demand": "Mid",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Snow Face",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Trion Rims",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Ionize Rims",
+    "demand": "Mid",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Energy Rims",
+    "demand": "Mid",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Iron Rock Rims",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Beadlock Rims",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Roll-X Clock",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Diamond Steel",
+    "demand": "Mid",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Teddy Bear",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Track Toy",
+    "demand": "Decent",
+    "duped_value": 1500000,
+    "value": 2000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Scope Rims",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Radar Rims",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Unknown Signal",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Laser Cannon",
+    "demand": "Decent",
+    "duped_value": 6000000,
+    "value": 7000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Sawblade",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Baller Rims",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Fore Rims",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Stance Rims",
+    "demand": "Mid",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Sakura Rims",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Volleyball Rims",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Ducky Float",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Beachball",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Waffle Rims",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Heritage Rims",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Cloverleaf",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Gunfire Rims",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Tumbleweed",
+    "demand": "VeryLow",
+    "duped_value": 250000,
+    "value": 500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Wagon Rims",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Marshmallow",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Peppermint",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Frostburn",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Biohazard",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Road Warrior",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Handcuff Chain",
+    "demand": "Mid",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Spinner Rims",
+    "demand": "VeryLow",
+    "duped_value": 12500000,
+    "value": 15000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Brickset Rims",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Hypno Rims",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Snowflake",
+    "demand": "VeryLow",
+    "duped_value": 3000000,
+    "value": 4000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Blue Eye Rims",
+    "demand": "VeryLow",
+    "duped_value": 2000000,
+    "value": 2500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Distorted Rims",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Nemesis Rims",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Red Eye Rims",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Spider Leg",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Star Badge",
+    "demand": "VeryLow",
+    "duped_value": 1250000,
+    "value": 1500000,
+    "category": "Rim"
+  },
+  {
+    "name": "Soccer Rims",
+    "demand": "VeryLow",
+    "duped_value": 750000,
+    "value": 1000000,
+    "category": "Rim"
+  },
+  {
+    "name": "Live 2020 Rims",
+    "demand": "VeryLow",
+    "duped_value": 500000,
+    "value": 750000,
+    "category": "Rim"
+  },
+  {
+    "name": "Bonded Rims",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Piggy Rims",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "Tesseract Rims",
+    "demand": "VeryLow",
+    "duped_value": 100000,
+    "value": 250000,
+    "category": "Rim"
+  },
+  {
+    "name": "4 Billion Rims",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Dino Rims",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Electrostatic",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Radioactive",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Ship Wheel",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Star Rims",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Vault Door",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Rim"
+  },
+  {
+    "name": "Camaro Bed",
+    "demand": "Mid",
+    "duped_value": null,
+    "value": 2500000,
+    "category": "Furniture"
+  },
+  {
+    "name": "RGB Wall Lights",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Trapped Bookshelf",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 2500000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Tiger Skin Rug",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1000000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Sarcophagus Bed",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 2500000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Gamer Chair",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1000000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Trophy Case",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 500000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Noob Scream",
+    "demand": "Mid",
+    "duped_value": null,
+    "value": 3000000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Racecar Bed",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 750000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Simulator Rig",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 2500000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Vehicle Pool Table",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Hot Chocolate Tub",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Air Hockey Table",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1000000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Teleport Chambers",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Sci-fi Kitchen",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 2500000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Picnic Table",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 750000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Fame Star Rug",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 750000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Royal Throne",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 750000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Puzzle Couch",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 750000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Missile Bed",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 500000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Nukamo Fridge",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Hero Zapper",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Cryo Chamber",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 500000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Foosball Table",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Basketball Arcade",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 500000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Sakura Tree",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Neon Sign",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Beach Hammock",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Tiki Bar",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Furniture"
+  },
+  {
+    "name": "London Booth Sofa",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Croissant Sofa",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Furniture"
+  },
+  {
+    "name": "The Old Wagon",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Furniture"
+  },
+  {
+    "name": "OG Snow Machine",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Furniture"
+  },
+  {
+    "name": "OG Giant Snowman",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Bloxy Lisa",
+    "demand": "Mid",
+    "duped_value": null,
+    "value": 1000000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Gun Rack",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Super Star Rug",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "Furniture"
+  },
+  {
+    "name": "Snowstorm Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1250000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "Fire Gun Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1250000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "Galactic Gun Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 750000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "Confetti Gun Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 250000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "Earthquake Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 500000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "Drip Gun Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 5000000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "Flaming Gun Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 750000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "Black Ice Gun Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 500000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "Circuits Gun Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1250000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "White Marble Gun Skin",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 500000,
+    "category": "GunTexture"
+  },
+  {
+    "name": "Champion",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "VehicleHorn"
+  },
+  {
+    "name": "Cucaracha",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 1000000,
+    "category": "VehicleHorn"
+  },
+  {
+    "name": "Winner Horn",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "VehicleHorn"
+  },
+  {
+    "name": "Aurora Drift",
+    "demand": "Mid",
+    "duped_value": null,
+    "value": 500000,
+    "category": "DriftParticle"
+  },
+  {
+    "name": "Sparks Drift",
+    "demand": "Mid",
+    "duped_value": null,
+    "value": 500000,
+    "category": "DriftParticle"
+  },
+  {
+    "name": "OG Rocket Fuel",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 500000,
+    "category": "DriftParticle"
+  },
+  {
+    "name": "Lightning",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 400000,
+    "category": "DriftParticle"
+  },
+  {
+    "name": "Flamethrower",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 300000,
+    "category": "DriftParticle"
+  },
+  {
+    "name": "Magic Purple",
+    "demand": "VeryLow",
+    "duped_value": null,
+    "value": 100000,
+    "category": "DriftParticle"
+  }
+]

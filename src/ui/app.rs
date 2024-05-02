@@ -1,11 +1,11 @@
-use std::borrow::BorrowMut;
 use std::cmp::Ordering;
-use std::{fs, thread};
+use std::thread;
+use std::thread::JoinHandle;
 
-use crate::jailbreak;
 use crate::jailbreak::consts::MAX_SEARCH_ITEMS_COUNT;
-use crate::jailbreak::models::{dupers, JBTC, JBTR};
+use crate::jailbreak::models::{dupers, update, JBTC, JBTR};
 use crate::jailbreak::traits::BaseJBTrader;
+use crate::jailbreak::types::JBDuper;
 use crate::jailbreak::util::{shorten_number, string_count};
 use crate::jailbreak::{consts::MAX_ITEMS_COUNT, types::JBItem};
 use crossterm::event::{KeyCode, KeyEvent, KeyEventKind};
@@ -31,7 +31,7 @@ pub enum AppMenu {
     Update,
 }
 
-#[derive(Default, Debug, Clone)]
+#[derive(Default, Debug)]
 pub struct App {
     pub state: AppState,
     pub closed: bool,
@@ -41,14 +41,16 @@ pub struct App {
     pub search_row: usize,
 
     pub edit_og: String,
-    pub closest_dupers: Vec<String>,
+    pub closest_dupers: Vec<JBDuper>,
     pub help_text: Vec<String>,
+
+    pub update_join_handle: Option<JoinHandle<()>>,
 }
 impl App {
     pub fn search_dupers(&mut self) {
         let mut closest = Vec::new();
         for duper in dupers::get_values().unwrap() {
-            if duper.contains(&self.edit_og) {
+            if duper.name.contains(&self.edit_og) {
                 closest.push(duper);
                 if closest.len() >= MAX_SEARCH_ITEMS_COUNT {
                     break;
@@ -56,8 +58,8 @@ impl App {
             }
         }
         closest.sort_by(|a, b| {
-            let a_count = string_count(&a, &self.edit_og);
-            let b_count = string_count(&b, &self.edit_og);
+            let a_count = string_count(&a.name, &self.edit_og);
+            let b_count = string_count(&b.name, &self.edit_og);
             if a_count > b_count {
                 return Ordering::Greater;
             } else if a_count < b_count {
@@ -223,8 +225,15 @@ impl App {
                     let index = *index as u16;
                     index >= page * (area.height - 2) && index <= (page + 1) * (area.height - 2)
                 })
-                .map(|(index, name)| {
-                    let mut line = Line::from(format!("{}\n", name.to_owned()));
+                .map(|(index, duper)| {
+                    let mut line = Line::from(format!(
+                        "{}\n",
+                        format!(
+                            "{} duped: {}",
+                            duper.name.to_owned(),
+                            duper.item.clone().unwrap_or("Unknown item".to_owned())
+                        )
+                    ));
                     if index == self.search_row {
                         line = line.on_blue();
                     }
@@ -241,7 +250,19 @@ impl App {
         )
     }
 
+    pub fn update(&mut self) {
+        self.menu = AppMenu::Update;
+        self.update_join_handle = Some(thread::spawn(move || update().unwrap()));
+    }
+
     pub fn on_key_event(&mut self, key: KeyEvent) -> std::io::Result<()> {
+        if let Some(handle) = &self.update_join_handle {
+            if handle.is_finished() {
+                self.state.update_trade();
+                self.menu = AppMenu::None;
+            }
+        }
+
         match self.menu {
             AppMenu::None => {
                 if key.code == KeyCode::Char('v') && key.kind == KeyEventKind::Press {
@@ -304,10 +325,7 @@ impl App {
                 }
 
                 if key.code == KeyCode::Char('u') && key.kind == KeyEventKind::Press {
-                    self.menu = AppMenu::Update;
-                    jailbreak::models::update();
-                    self.state.update_trade();
-                    self.menu = AppMenu::None;
+                    self.update();
                 }
             }
             AppMenu::Search => {
@@ -369,12 +387,12 @@ impl App {
                             let slot = self.state.current_slot as usize;
                             let trade = self.state.get_mut_trade();
                             if slot < trade.len() {
-                                if let Some(og) = self.closest_dupers.get(self.search_row) {
-                                    if og.is_empty() {
+                                if let Some(duper) = self.closest_dupers.get(self.search_row) {
+                                    if duper.name.is_empty() {
                                         trade[slot].og = None;
                                     } else {
-                                        trade[slot].og = Some(og.clone());
-                                        self.edit_og = og.clone();
+                                        trade[slot].og = Some(duper.name.clone());
+                                        self.edit_og = duper.name.clone();
                                         self.search_dupers();
                                         self.search_row = 0;
                                     }

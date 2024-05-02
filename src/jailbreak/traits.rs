@@ -1,8 +1,7 @@
 use super::consts::MAX_SEARCH_ITEMS_COUNT;
-use super::types::{JBItem, JBItemType, JBTraderInfo};
+use super::types::{JBDuper, JBItem, JBItemType, JBTraderInfo};
 use super::util::string_count;
 use std::cmp::Ordering;
-use std::fmt::format;
 
 pub trait ReplaceAll {
     fn replace_all(&self, pat: &str, to: &str) -> String;
@@ -21,7 +20,7 @@ pub trait BaseJBTrader {
 
     // Values
     fn get_values(&self) -> Vec<JBItem>;
-    fn get_dupers(&self) -> Vec<String> {
+    fn get_dupers(&self) -> Vec<JBDuper> {
         use super::models::dupers::get_values;
         let res = get_values();
         if let Ok(dupers) = res {
@@ -33,10 +32,27 @@ pub trait BaseJBTrader {
     fn get_info(&self) -> JBTraderInfo;
 
     // Operations
-    fn has_duped(&self, username: &String) -> bool {
-        let username = username.to_lowercase();
-        let dupers = self.get_dupers();
-        return dupers.contains(&username);
+    fn has_duped(&self, item: &JBItem) -> bool {
+        if let Some(username) = &item.og {
+            let username = username.to_lowercase();
+            let dupers = self.get_dupers();
+
+            for duper in &dupers {
+                if duper.name == username {
+                    if let Some(item_name) = &duper.item {
+                        if let Some(duped_item) = self.get_item(&item_name).get(0) {
+                            if duped_item.name == item.name {
+                                return true;
+                            }
+                        }
+                    } else {
+                        return true;
+                    }
+                }
+            }
+        }
+
+        return false;
     }
 
     fn get_item(&self, search: &str) -> Vec<JBItem> {
@@ -123,12 +139,8 @@ pub trait BaseJBTrader {
         let mut value: u32 = 0;
 
         for item in items {
-            if let Some(og) = &item.og {
-                if self.has_duped(og) {
-                    value += item.duped_value.unwrap_or(item.value);
-                } else {
-                    value += item.value;
-                }
+            if self.has_duped(&item) {
+                value += item.duped_value.unwrap_or(item.value);
             } else {
                 value += item.value;
             }

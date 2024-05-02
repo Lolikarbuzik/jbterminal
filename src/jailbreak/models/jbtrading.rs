@@ -1,7 +1,4 @@
-mod parser;
-
 use crate::jailbreak::types::{JBItem, JBTraderInfo};
-pub use parser::parse;
 
 use super::super::traits::BaseJBTrader;
 use serde_json::from_str;
